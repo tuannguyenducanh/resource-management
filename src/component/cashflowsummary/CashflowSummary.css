@@ -1,0 +1,10 @@
+.month-summary-list-wrapper {
+  max-width: 700px;
+  margin: auto;
+}
+.month-summary-header {
+  color: blue;
+  width: 33%;
+  position: relative;
+  display: inline-block;
+}
